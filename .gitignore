@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*$py.class
+.python-version
+.idea/
+db.sqlite3
